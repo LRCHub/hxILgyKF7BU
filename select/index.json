@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Me.exe",
+  "base_artist": "SOTA HANAMURA",
+  "createdAt": "2026-02-14T15:05:57.527056Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Me.exe",
+      "artist": "SOTA HANAMURA",
+      "has_synced": false,
+      "path": "select/pl_01_Me.exe_SOTA_HANAMURA.txt"
+    }
+  ]
+}
